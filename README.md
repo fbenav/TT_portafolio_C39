@@ -12,6 +12,10 @@ En este sprint trabajamos los conceptos basicos de python, tales como:
 - Try / Except
  
 ## Sprint 2: Python Basico II
+En este sprint trabajamos conceptos realicionados a bucles y condicionales, como:
+- Bucles for / while.
+- if / else / elif.
+- Listas anidadas.
 
 ## Sprint 3: Data Wrangling I
 Se revisan conceptos basicos de pandas.
