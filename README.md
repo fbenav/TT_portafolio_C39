@@ -21,3 +21,7 @@ En este sprint trabajamos conceptos realicionados a bucles y condicionales, como
 Se revisan conceptos basicos de pandas.
 
 ## Sprint 4: Data Wranglig II
+Graficos revisados en el sprint:
+ - Barra
+ - Linea
+ - Histograma
