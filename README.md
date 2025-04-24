@@ -14,5 +14,6 @@ En este sprint trabajamos los conceptos basicos de python, tales como:
 ## Sprint 2: Python Basico II
 
 ## Sprint 3: Data Wrangling I
+Se revisan conceptos basicos de pandas.
 
 ## Sprint 4: Data Wranglig II
