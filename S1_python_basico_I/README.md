@@ -1,0 +1,3 @@
+# Proyecto: Python Basico I
+En este proyecto resolvemos 10 ejercicios basicos de python en el contexto de ....
+
